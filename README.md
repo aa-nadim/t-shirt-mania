@@ -6,6 +6,8 @@
 
 3. 54-3 Recap Remove from cart and not allow duplicate
 
+4. 54-4 Explore Conditional Rendering & conditional css class
+
 # Resourecs
 
 `https://reactrouter.com/en/main/start/tutorial`
