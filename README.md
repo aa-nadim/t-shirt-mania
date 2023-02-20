@@ -12,8 +12,12 @@
 
 6. `****54-6 Prop Drilling to pass data to a many level components`
 
+7. `****54-7 Simple Introduction to Context API to avoid Prop drilling`
+
 # Resourecs
 
 `https://reactrouter.com/en/main/start/tutorial`
 
 `https://reactjs.org/docs/context.html#reactcreatecontext`
+
+`https://reactjs.org/docs/hooks-reference.html#usecontext`
