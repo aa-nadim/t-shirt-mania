@@ -10,6 +10,10 @@
 
 5. 54-5 Grandfather Create a Family Tree and share same data
 
+6. `****54-6 Prop Drilling to pass data to a many level components`
+
 # Resourecs
 
 `https://reactrouter.com/en/main/start/tutorial`
+
+`https://reactjs.org/docs/context.html#reactcreatecontext`
